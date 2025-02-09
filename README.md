@@ -1,8 +1,8 @@
 <p align="center"><img src="https://socialify.git.ci/JEEVADARSHAN/Cognorise-Infortech-Internship/image?logo=https%3A%2F%2Fcognoriseinfotech.com%2Fimages%2FcognoRise-removebg.png&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
 
-# Cognorise Infotech Python Internship
+# CognoRise InfoTech Python Internship
 
-This repository contains the completed tasks for my internship at Cognorise Infotech. The tasks were built using Python, Tkinter for GUI, and various Python libraries. The six tasks completed are as follows:
+This repository contains the completed tasks for my internship at CognoRise InfoTech. The tasks were built using Python, Tkinter for GUI, and various Python libraries. The six tasks completed are as follows:
 
 1. **Calculator**
 2. **Dice Simulator**
